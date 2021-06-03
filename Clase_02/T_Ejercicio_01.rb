@@ -10,4 +10,3 @@ puts 'Ingrese el segundo valor númerico: '
 valor_2 = gets.chomp.to_f
 
 operacion(valor_1, valor_2)
-
