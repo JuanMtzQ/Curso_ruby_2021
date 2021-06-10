@@ -1,4 +1,4 @@
-#Array de n valores númericos
+#Array de valores númericos
 #Dado la suma de dichos valores, imprimir par o impar 
 puts "Ingrese 5 valores: "
 array = []
