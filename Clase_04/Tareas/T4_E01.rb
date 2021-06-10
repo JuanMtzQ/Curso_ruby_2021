@@ -1,4 +1,4 @@
-#Imprimir y contar los números múltiplos de 3 hasta un númeor ingresado
+#Imprimir y contar los números múltiplos de 3 hasta un número ingresado
 puts "Ingrese un número por favor: "
 n = gets.chomp.to_i
 i = 0
