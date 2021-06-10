@@ -1,6 +1,6 @@
 #Array de valores númericos
 #Dado la suma de dichos valores, imprimir par o impar 
-puts "Ingrese 5 valores: "
+puts "Ingrese 5 valores númericos: "
 array = []
 v1 = gets.chomp.to_i
 v2 = gets.chomp.to_i
