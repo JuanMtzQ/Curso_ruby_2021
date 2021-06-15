@@ -1,4 +1,4 @@
-#Imprimir todos los números pares hasta el 1000 
+#Imprimir todos los números pares hasta el 100
 #y contar el número presente de estos
 i = 0
 (1..100).each do |number|
